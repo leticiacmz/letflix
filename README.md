@@ -4,7 +4,7 @@
 
 ### **GIF**  :video_camera:
 
-![LETFLIX](.\img\LETFLIX.gif)
+![LETFLIX](\img\LETFLIX.gif)
 
 
 
@@ -12,17 +12,17 @@
 
 
 
-![print1](.\img\print1.png)
+![print1](\img\print1.png)
 
 
 
 
 
-![print2](.\img\print2.png)
+![print2](\img\print2.png)
 
 
 
-![print3](.\img\print3.png)
+![print3](\img\print3.png)
 
 
 
