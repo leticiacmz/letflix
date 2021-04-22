@@ -4,25 +4,25 @@
 
 ### **GIF**  :video_camera:
 
-![LETFLIX](\img\LETFLIX.gif)
+<img src=".\img\LETFLIX.gif" alt="gif" style="zoom:150%;" />
 
 
 
 ### **Screenshots** :movie_camera:
 
 
-
-![print1](\img\print1.png)
-
+<img src=".\img\print1.png" alt="print1" style="zoom:150%;" />
 
 
 
 
-![print2](\img\print2.png)
+
+<img src=".\img\print2.png" alt="print2" style="zoom:150%;" />
 
 
 
-![print3](\img\print3.png)
+<img src=".\img\print3.png" alt="print3" style="zoom:150%;" />
+
 
 
 
