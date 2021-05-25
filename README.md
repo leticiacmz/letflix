@@ -2,6 +2,8 @@
 
 **Website created based on netflix, I used HTML, CSS, JS, JQUERY and OWN CAROUSEL.**
 
+https://leticiacmz.github.io/letflix/
+
 ### **GIF**  :video_camera:
 
 <img src=".\img\LETFLIX.gif" alt="gif" style="zoom:150%;" />
